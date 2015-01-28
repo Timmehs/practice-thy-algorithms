@@ -27,7 +27,7 @@ def sum_rec(numbers)
 end
 
 # Write a function which returns the first n elements from the fibonnacci sequence, given n.
-def fibs(number)
+def fibs(n)
 
 end
 
